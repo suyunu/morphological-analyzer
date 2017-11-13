@@ -1,0 +1,463 @@
+.
+look v
+looking ing n
+looked ed v
+looks s v
+. 
+see v
+seeing ing n
+sees s v
+.
+hear v
+hears s v
+hearing ing n
+hearer er n
+.
+feel v
+feeling ing n
+feeler er n
+.
+compute v
+computer er n
+computation ation n
+computize ize v
+computable able adj
+.
+calculate v
+calculater er n
+calculation ation n
+calculatable able adj
+calculated ed v
+.
+invest v
+investor or n
+investment ment n
+investing ing n
+.
+say v
+saying ing n
+says s v
+.
+get v
+getting ing v
+gets s v
+.
+think v
+thinking ing v
+thinks s v
+thinkable able adj
+.
+become v
+becomes s v
+.
+mean v
+meaning ing n
+.
+make v
+maker r n
+makes s v
+.
+begin v
+beginning ing n
+beginner n n
+begins s v
+.
+help v
+helped ed v
+helps s v
+helpful ful adj
+.
+race v
+races s v
+raced ed v
+.
+show v
+showy y adj
+shows s v
+showed ed v
+.
+live v
+lived ed v
+lives s v
+lively ly adj
+.
+believe v
+believes s v
+believed ed v
+believer er n
+.
+lose v
+losing ing v
+loser er n
+loses s v
+.
+set v
+setting ing n
+sets s v
+.
+map v
+mapping ing n
+mapped ed v
+maps s v
+.
+control v
+controlled ed v
+controlling ing v
+controller er n
+.
+grow v
+grows s v
+growing ing v
+growth th n
+.
+consider v
+considering ing v
+consideration ation n
+considerate ate adj
+considers s v
+.
+appear v
+appearance ance n
+appears s v
+appearing ing v
+.
+build v
+building ing n
+builder er n
+builds s v
+.
+die v
+dies s v
+died ed v
+.
+serve v
+served ed v
+serves s v
+server er n
+.
+teach v
+teaches s v
+teacher er n
+teaching ing n
+.
+reach v
+reaches s v
+reaching ing n
+reacher er n
+.
+receive v
+receives s v
+receiving ing n
+received ed v
+receiver er n
+.
+produce v
+production tion n
+productive ive adj
+producer er n
+product t adj
+.
+consume v
+consumer er n
+consuming ing n
+consumed ed v
+consumes s v
+.
+small adj
+smaller er adj
+smallest est adj
+smallness ness n
+smallish ish adj
+.
+big adj
+bigger er adj
+biggest est adj
+bigness ness n
+.
+clear adj
+clearly ly adv
+clearer er adj
+clearest est adj
+clearness ness n
+.
+huge adj
+hugely ly adv
+hugeness ness n
+.
+high adj
+higher er adj
+highly ly adv
+highest est adj
+highness ness n
+.
+low adj
+lower er adj
+lowest est adj
+lowly ly adv
+lowness ness n
+.
+long adj
+longer er adj
+longest est adj
+longish ish adj
+longevity evity n
+.
+short adj
+shorter er adj
+shortest est adj
+shortly ly adv
+shortage age n
+shorten en v
+.
+tall adj
+taller er adj
+tallest est adj
+tallness ness n
+.
+fast adj
+faster er adj
+fastest est adj
+fasten en v
+.
+slow adj
+slowly ly adv
+slower er adj
+slowest est adj
+.
+strong adj
+stronger er adj
+strongest est adj
+strongly ly adv
+.
+weak adj
+weaker er adj
+weakest est adj
+weakly ly adv
+weaken en v
+weakness ness n
+.
+smart adj
+smarter er adj
+smartest est adj
+smartly ly adv
+smartness ness n
+.
+soft adj
+softer er adj
+softest est adj
+softly ly adv
+softness ness n
+soften en v
+.
+hard adj
+harder er adj
+hardest est adj
+hardness ness n
+hardly ly adv
+harden en v
+hardship ship n
+.
+tough adj
+tougher er adj
+toughest est adj
+toughly ly adv
+toughness ness n
+toughen en v
+.
+difficult adj
+difficulty y n
+difficultly ly adv
+.
+easy adj
+easier er adj
+easiest est adj
+easily ly adv
+.
+simple adj
+simpler er adj
+simplest est adj
+simplicity city n
+simpleness ness n
+.
+history n
+historical ical adj
+histories s n
+.
+art n
+artist ist n
+arts s n
+.
+world n
+worlds s n
+worldwide wide adj
+.
+map n
+maps s n
+mapper er n
+.
+family n
+families s n
+.
+system n
+systems s n
+systematic atic adj
+systemize ize v
+.
+meat n
+meats s n
+meaty y adj
+meatier er adj
+meatiest est adj
+.
+year n
+years s n
+yearly ly adv
+.
+music n
+musics s n
+musical al adj
+musician ian n
+.
+method n
+methods s n
+methodology logy n
+methodize ize v
+methodical ical adj
+.
+data n
+.
+food n
+foods s n
+.
+theory n
+theories s n
+theoretical atical adj
+.
+law n
+laws s n
+lawyer yer n
+lawful ful adj
+lawless less adj
+.
+bird n
+birds s n
+.
+problem n
+problems s n
+problematic atic adj
+.
+control n
+controls s n
+controllable able adj
+controller er n
+controled ed n
+.
+science n
+sciences s n
+.
+library n
+libraries s n
+.
+fact n
+facts s n
+factual ual adj
+factive ive adj
+faction ion n
+.
+idea n
+ideas s n
+ideal al n
+.
+area n
+areas s n
+areal al adj
+.
+story n
+stories s n
+storying ing n
+.
+media n
+meadias s n
+mediative tive adj
+.
+thing n
+things s n
+.
+video n
+videos s n
+videoing ing v
+.
+exam n
+exams s n
+examine ine v
+.
+army n
+armies s n
+.
+camera n
+cameras s n
+.
+article n
+articles s n
+articled ed adj
+.
+night n
+nights s n
+nightly ly adj
+.
+disk n
+disks s n
+.
+nation n
+nations s n
+national al n
+.
+soup n
+soups s n
+.
+math n
+maths s n
+.
+moment n
+moments s n
+momentary ary adj
+momentum um n
+.
+event n
+events s n
+eventful ful adj
+eventual ual adj
+.
+wood n
+woods s n
+woody y adj
+.
+office n
+offices s n
+officer er n
+.
+race n
+races s n
+racer er n
+.
+help n
+helps s n
+helper er n
+helpful ful adj
+helpless less adj
+.
+in prp
+.
+on prp
+.
+up prp
+.
+after prp
+.
+across prp
+.
+with prp
+.
+by prp
+.
+of prp
